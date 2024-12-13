@@ -1,0 +1,19 @@
+.a{
+    border: solid 2px purple;
+    width: 150px;
+    height: 40px;
+}
+.b{
+    border: solid 2px pink;
+
+}
+.c{
+    border-bottom: 10px solid blue;
+    border-top: dotted 2px gray;
+    border-left: groove 7px brown;
+    border-right: 2px dashed black;
+    width: 190px;
+    height: 150px;
+    padding: 20px;
+    margin: 0px 0px 0px 10px;
+}
